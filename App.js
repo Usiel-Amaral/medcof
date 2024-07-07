@@ -5,7 +5,7 @@ import { WebView } from 'react-native-webview';
 export default function App() {
   return (
     <View style={styles.container}>
-      <WebView source={{ uri: 'https://www.icevidanova.com.br/' }} />
+      <WebView source={{ uri: 'https://icevidanova.com.br/' }} />
     </View>
   );
 }
@@ -13,6 +13,6 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    marginTop: 20,
+    marginTop: 40,
   },
 });
