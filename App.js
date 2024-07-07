@@ -5,7 +5,7 @@ import { WebView } from 'react-native-webview';
 export default function App() {
   return (
     <View style={styles.container}>
-      <WebView source={{ uri: 'https://login.medcof.com.br/' }} />
+      <WebView source={{ uri: 'https://www.icevidanova.com.br/' }} />
     </View>
   );
 }
