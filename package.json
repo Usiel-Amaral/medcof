@@ -1,5 +1,5 @@
 {
-  "name": "medcof",
+  "name": "usigreja",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -11,6 +11,7 @@
   "dependencies": {
     "eas-cli": "^10.1.1",
     "expo": "^51.0.18",
+    "expo-dev-client": "~4.0.19",
     "expo-status-bar": "~1.12.1",
     "react": "18.2.0",
     "react-native": "0.74.3",
